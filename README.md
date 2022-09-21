@@ -1,6 +1,6 @@
 
-# `GuessWhat`
-In this project I developed a simple Guess WhatThe main goal of the project is to implement an innovative Library Management System. Library management systems are very popular and actively used today. The system, which was created with various innovations and users in mind, aims to provide convenience to people in the days of continuing life from home with the pandemic process. The project features list is given below.
+# `Library Management System`
+The main goal of the project is to implement an innovative Library Management System. Library management systems are very popular and actively used today. The system, which was created with various innovations and users in mind, aims to provide convenience to people in the days of continuing life from home with the pandemic process. The project features list is given below.
 ## User and Admin Features
 
 User:
